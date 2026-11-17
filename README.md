@@ -1,4 +1,4 @@
-[![API Tests & Allure Report](https://github.com)](https://github.com)
+[![API Tests & Allure Report](https://github.com/LeonidGorbunov/java-api-wiremock-subscription/actions/workflows/ci.yml/badge.svg)](https://github.com/LeonidGorbunov/java-api-wiremock-subscription/actions/workflows/ci.yml)
 [![Allure Report](https://img.shields.io/badge/Allure%20Report-Live-brightgreen)](https://leonidgorbunov.github.io/java-api-wiremock-subscription)
 # Java API Testing WireMock Subscription Project
 
